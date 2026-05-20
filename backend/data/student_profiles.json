@@ -1,0 +1,369 @@
+{
+  "S001": {
+    "student_id": "S001",
+    "student_name": "张明",
+    "profile_type": "局部薄弱型",
+    "expected_weak_concepts": [
+      "C004",
+      "C006",
+      "C008"
+    ]
+  },
+  "S002": {
+    "student_id": "S002",
+    "student_name": "李华",
+    "profile_type": "全面掌握型",
+    "expected_weak_concepts": []
+  },
+  "S003": {
+    "student_id": "S003",
+    "student_name": "王芳",
+    "profile_type": "方程与综合薄弱型",
+    "expected_weak_concepts": [
+      "C001",
+      "C002",
+      "C005",
+      "C007",
+      "C008"
+    ]
+  },
+  "S004": {
+    "student_id": "S004",
+    "student_name": "赵强",
+    "profile_type": "证明薄弱型",
+    "expected_weak_concepts": [
+      "C008",
+      "C011",
+      "C012"
+    ]
+  },
+  "S005": {
+    "student_id": "S005",
+    "student_name": "陈晨",
+    "profile_type": "多知识点风险型",
+    "expected_weak_concepts": [
+      "C001",
+      "C002",
+      "C003",
+      "C005",
+      "C006",
+      "C008"
+    ]
+  },
+  "S006": {
+    "student_id": "S006",
+    "student_name": "周雨欣",
+    "profile_type": "代数薄弱型",
+    "expected_weak_concepts": [
+      "C003",
+      "C005",
+      "C007"
+    ]
+  },
+  "S007": {
+    "student_id": "S007",
+    "student_name": "吴浩",
+    "profile_type": "函数薄弱型",
+    "expected_weak_concepts": [
+      "C006",
+      "C003"
+    ]
+  },
+  "S008": {
+    "student_id": "S008",
+    "student_name": "郑可",
+    "profile_type": "统计概率薄弱型",
+    "expected_weak_concepts": [
+      "C009",
+      "C010"
+    ]
+  },
+  "S009": {
+    "student_id": "S009",
+    "student_name": "孙悦",
+    "profile_type": "几何综合薄弱型",
+    "expected_weak_concepts": [
+      "C008",
+      "C011",
+      "C012"
+    ]
+  },
+  "S010": {
+    "student_id": "S010",
+    "student_name": "马宇航",
+    "profile_type": "稳定中等型",
+    "expected_weak_concepts": [
+      "C005",
+      "C008"
+    ]
+  },
+  "S011": {
+    "student_id": "S011",
+    "student_name": "林嘉怡",
+    "profile_type": "全面掌握型",
+    "expected_weak_concepts": []
+  },
+  "S012": {
+    "student_id": "S012",
+    "student_name": "何俊",
+    "profile_type": "方程薄弱型",
+    "expected_weak_concepts": [
+      "C001",
+      "C002"
+    ]
+  },
+  "S013": {
+    "student_id": "S013",
+    "student_name": "高蕾",
+    "profile_type": "分式薄弱型",
+    "expected_weak_concepts": [
+      "C007",
+      "C003"
+    ]
+  },
+  "S014": {
+    "student_id": "S014",
+    "student_name": "许诺",
+    "profile_type": "概率薄弱型",
+    "expected_weak_concepts": [
+      "C010"
+    ]
+  },
+  "S015": {
+    "student_id": "S015",
+    "student_name": "唐一鸣",
+    "profile_type": "统计薄弱型",
+    "expected_weak_concepts": [
+      "C009"
+    ]
+  },
+  "S016": {
+    "student_id": "S016",
+    "student_name": "曹欣然",
+    "profile_type": "相似薄弱型",
+    "expected_weak_concepts": [
+      "C011",
+      "C008"
+    ]
+  },
+  "S017": {
+    "student_id": "S017",
+    "student_name": "冯子涵",
+    "profile_type": "圆薄弱型",
+    "expected_weak_concepts": [
+      "C012",
+      "C008"
+    ]
+  },
+  "S018": {
+    "student_id": "S018",
+    "student_name": "梁晨",
+    "profile_type": "代数函数薄弱型",
+    "expected_weak_concepts": [
+      "C003",
+      "C006"
+    ]
+  },
+  "S019": {
+    "student_id": "S019",
+    "student_name": "宋佳琪",
+    "profile_type": "基础不稳型",
+    "expected_weak_concepts": [
+      "C001",
+      "C002",
+      "C003",
+      "C004"
+    ]
+  },
+  "S020": {
+    "student_id": "S020",
+    "student_name": "韩硕",
+    "profile_type": "综合风险型",
+    "expected_weak_concepts": [
+      "C001",
+      "C003",
+      "C005",
+      "C006",
+      "C008",
+      "C011"
+    ]
+  },
+  "S021": {
+    "student_id": "S021",
+    "student_name": "蒋依依",
+    "profile_type": "全面掌握型",
+    "expected_weak_concepts": []
+  },
+  "S022": {
+    "student_id": "S022",
+    "student_name": "罗天宇",
+    "profile_type": "中等偏上型",
+    "expected_weak_concepts": [
+      "C008"
+    ]
+  },
+  "S023": {
+    "student_id": "S023",
+    "student_name": "邓诗雨",
+    "profile_type": "几何证明薄弱型",
+    "expected_weak_concepts": [
+      "C008",
+      "C012"
+    ]
+  },
+  "S024": {
+    "student_id": "S024",
+    "student_name": "彭越",
+    "profile_type": "统计概率薄弱型",
+    "expected_weak_concepts": [
+      "C009",
+      "C010"
+    ]
+  },
+  "S025": {
+    "student_id": "S025",
+    "student_name": "乔安",
+    "profile_type": "函数方程薄弱型",
+    "expected_weak_concepts": [
+      "C006",
+      "C001"
+    ]
+  },
+  "S026": {
+    "student_id": "S026",
+    "student_name": "余嘉",
+    "profile_type": "分式代数薄弱型",
+    "expected_weak_concepts": [
+      "C007",
+      "C003"
+    ]
+  },
+  "S027": {
+    "student_id": "S027",
+    "student_name": "杜若",
+    "profile_type": "面积薄弱型",
+    "expected_weak_concepts": [
+      "C004"
+    ]
+  },
+  "S028": {
+    "student_id": "S028",
+    "student_name": "叶航",
+    "profile_type": "二次方程薄弱型",
+    "expected_weak_concepts": [
+      "C005",
+      "C003"
+    ]
+  },
+  "S029": {
+    "student_id": "S029",
+    "student_name": "沈青",
+    "profile_type": "圆相似薄弱型",
+    "expected_weak_concepts": [
+      "C011",
+      "C012"
+    ]
+  },
+  "S030": {
+    "student_id": "S030",
+    "student_name": "熊博",
+    "profile_type": "多知识点风险型",
+    "expected_weak_concepts": [
+      "C001",
+      "C002",
+      "C006",
+      "C009",
+      "C010"
+    ]
+  },
+  "S031": {
+    "student_id": "S031",
+    "student_name": "魏思源",
+    "profile_type": "全面掌握型",
+    "expected_weak_concepts": []
+  },
+  "S032": {
+    "student_id": "S032",
+    "student_name": "邹静",
+    "profile_type": "稳定中等型",
+    "expected_weak_concepts": [
+      "C004",
+      "C007",
+      "C012"
+    ]
+  },
+  "S033": {
+    "student_id": "S033",
+    "student_name": "田昊",
+    "profile_type": "几何综合薄弱型",
+    "expected_weak_concepts": [
+      "C004",
+      "C008",
+      "C011",
+      "C012"
+    ]
+  },
+  "S034": {
+    "student_id": "S034",
+    "student_name": "陆瑶",
+    "profile_type": "代数薄弱型",
+    "expected_weak_concepts": [
+      "C003",
+      "C005"
+    ]
+  },
+  "S035": {
+    "student_id": "S035",
+    "student_name": "白宁",
+    "profile_type": "概率统计薄弱型",
+    "expected_weak_concepts": [
+      "C009",
+      "C010"
+    ]
+  },
+  "S036": {
+    "student_id": "S036",
+    "student_name": "顾晨曦",
+    "profile_type": "函数薄弱型",
+    "expected_weak_concepts": [
+      "C006"
+    ]
+  },
+  "S037": {
+    "student_id": "S037",
+    "student_name": "任泽",
+    "profile_type": "全面掌握型",
+    "expected_weak_concepts": []
+  },
+  "S038": {
+    "student_id": "S038",
+    "student_name": "姚璐",
+    "profile_type": "基础不稳型",
+    "expected_weak_concepts": [
+      "C001",
+      "C002",
+      "C003"
+    ]
+  },
+  "S039": {
+    "student_id": "S039",
+    "student_name": "邵洋",
+    "profile_type": "综合风险型",
+    "expected_weak_concepts": [
+      "C003",
+      "C005",
+      "C007",
+      "C008",
+      "C011"
+    ]
+  },
+  "S040": {
+    "student_id": "S040",
+    "student_name": "程雪",
+    "profile_type": "中等偏上型",
+    "expected_weak_concepts": [
+      "C010",
+      "C012"
+    ]
+  }
+}

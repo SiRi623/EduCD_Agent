@@ -1,0 +1,586 @@
+[
+  {
+    "question_id": "Q001",
+    "content": "解方程：2x + 3 = 11。",
+    "correct_answer": "x=4",
+    "difficulty": "easy",
+    "concept_ids": [
+      "C001",
+      "C002"
+    ],
+    "knowledge_points": [
+      "C001",
+      "C002"
+    ],
+    "wrong_answer_examples": [
+      "x=7",
+      "x=5",
+      "x=3"
+    ]
+  },
+  {
+    "question_id": "Q002",
+    "content": "化简：3a + 2a - 5。",
+    "correct_answer": "5a-5",
+    "difficulty": "easy",
+    "concept_ids": [
+      "C003"
+    ],
+    "knowledge_points": [
+      "C003"
+    ],
+    "wrong_answer_examples": [
+      "6a-5",
+      "5a+5",
+      "a-5"
+    ]
+  },
+  {
+    "question_id": "Q003",
+    "content": "一个三角形底为 8 cm，高为 5 cm，求面积。",
+    "correct_answer": "20 平方厘米",
+    "difficulty": "easy",
+    "concept_ids": [
+      "C004"
+    ],
+    "knowledge_points": [
+      "C004"
+    ],
+    "wrong_answer_examples": [
+      "40 平方厘米",
+      "13 平方厘米",
+      "20 厘米"
+    ]
+  },
+  {
+    "question_id": "Q004",
+    "content": "解方程：x^2 - 5x + 6 = 0。",
+    "correct_answer": "x=2 或 x=3",
+    "difficulty": "medium",
+    "concept_ids": [
+      "C005",
+      "C003"
+    ],
+    "knowledge_points": [
+      "C005",
+      "C003"
+    ],
+    "wrong_answer_examples": [
+      "x=1 或 x=6",
+      "x=2",
+      "不会"
+    ]
+  },
+  {
+    "question_id": "Q005",
+    "content": "一次函数 y = 2x - 1 的图像经过点 (1, y)，求 y。",
+    "correct_answer": "1",
+    "difficulty": "medium",
+    "concept_ids": [
+      "C006",
+      "C003"
+    ],
+    "knowledge_points": [
+      "C006",
+      "C003"
+    ],
+    "wrong_answer_examples": [
+      "3",
+      "-1",
+      "2"
+    ]
+  },
+  {
+    "question_id": "Q006",
+    "content": "计算：(x^2 - 1) / (x - 1)，其中 x 不等于 1。",
+    "correct_answer": "x+1",
+    "difficulty": "medium",
+    "concept_ids": [
+      "C007",
+      "C003"
+    ],
+    "knowledge_points": [
+      "C007",
+      "C003"
+    ],
+    "wrong_answer_examples": [
+      "x-1",
+      "x^2+1",
+      "1"
+    ]
+  },
+  {
+    "question_id": "Q007",
+    "content": "已知三角形两边相等，证明其底角相等。",
+    "correct_answer": "作顶角平分线，可证明两个三角形全等，从而底角相等。",
+    "difficulty": "hard",
+    "concept_ids": [
+      "C008"
+    ],
+    "knowledge_points": [
+      "C008"
+    ],
+    "wrong_answer_examples": [
+      "因为两边相等所以角相等",
+      "两角相等",
+      "证明过程不完整"
+    ]
+  },
+  {
+    "question_id": "Q008",
+    "content": "若 3(x - 2) = 12，求 x。",
+    "correct_answer": "x=6",
+    "difficulty": "easy",
+    "concept_ids": [
+      "C001",
+      "C002",
+      "C003"
+    ],
+    "knowledge_points": [
+      "C001",
+      "C002",
+      "C003"
+    ],
+    "wrong_answer_examples": [
+      "x=2",
+      "x=4",
+      "x=8"
+    ]
+  },
+  {
+    "question_id": "Q009",
+    "content": "解方程：5 - 2x = 13。",
+    "correct_answer": "x=-4",
+    "difficulty": "easy",
+    "concept_ids": [
+      "C001",
+      "C002"
+    ],
+    "knowledge_points": [
+      "C001",
+      "C002"
+    ],
+    "wrong_answer_examples": [
+      "x=4",
+      "x=-9",
+      "x=9"
+    ]
+  },
+  {
+    "question_id": "Q010",
+    "content": "化简：2(3x - 4) - x。",
+    "correct_answer": "5x-8",
+    "difficulty": "easy",
+    "concept_ids": [
+      "C003"
+    ],
+    "knowledge_points": [
+      "C003"
+    ],
+    "wrong_answer_examples": [
+      "6x-8",
+      "5x+8",
+      "5x-4"
+    ]
+  },
+  {
+    "question_id": "Q011",
+    "content": "一个梯形上底 4 cm，下底 10 cm，高 6 cm，求面积。",
+    "correct_answer": "42 平方厘米",
+    "difficulty": "medium",
+    "concept_ids": [
+      "C004",
+      "C003"
+    ],
+    "knowledge_points": [
+      "C004",
+      "C003"
+    ],
+    "wrong_answer_examples": [
+      "84 平方厘米",
+      "60 平方厘米",
+      "42 厘米"
+    ]
+  },
+  {
+    "question_id": "Q012",
+    "content": "解方程：x^2 - 9 = 0。",
+    "correct_answer": "x=3 或 x=-3",
+    "difficulty": "medium",
+    "concept_ids": [
+      "C005"
+    ],
+    "knowledge_points": [
+      "C005"
+    ],
+    "wrong_answer_examples": [
+      "x=3",
+      "x=-9 或 x=9",
+      "x=0"
+    ]
+  },
+  {
+    "question_id": "Q013",
+    "content": "函数 y = -x + 4 中，当 x = 6 时，求 y。",
+    "correct_answer": "-2",
+    "difficulty": "easy",
+    "concept_ids": [
+      "C006",
+      "C003"
+    ],
+    "knowledge_points": [
+      "C006",
+      "C003"
+    ],
+    "wrong_answer_examples": [
+      "2",
+      "10",
+      "-10"
+    ]
+  },
+  {
+    "question_id": "Q014",
+    "content": "化简：(2x)/(4x^2)，其中 x 不等于 0。",
+    "correct_answer": "1/(2x)",
+    "difficulty": "medium",
+    "concept_ids": [
+      "C007"
+    ],
+    "knowledge_points": [
+      "C007"
+    ],
+    "wrong_answer_examples": [
+      "1/2",
+      "2x",
+      "1/(4x)"
+    ]
+  },
+  {
+    "question_id": "Q015",
+    "content": "已知两个三角形有两角分别相等，说明这两个三角形是否相似。",
+    "correct_answer": "相似",
+    "difficulty": "medium",
+    "concept_ids": [
+      "C011",
+      "C008"
+    ],
+    "knowledge_points": [
+      "C011",
+      "C008"
+    ],
+    "wrong_answer_examples": [
+      "全等",
+      "不一定相似",
+      "无法判断"
+    ]
+  },
+  {
+    "question_id": "Q016",
+    "content": "袋中有 3 个红球、2 个白球，随机摸出 1 个球，摸到红球的概率是多少？",
+    "correct_answer": "3/5",
+    "difficulty": "easy",
+    "concept_ids": [
+      "C010"
+    ],
+    "knowledge_points": [
+      "C010"
+    ],
+    "wrong_answer_examples": [
+      "2/5",
+      "3/2",
+      "1/3"
+    ]
+  },
+  {
+    "question_id": "Q017",
+    "content": "某班 40 人中 12 人喜欢篮球，求喜欢篮球人数所占比例。",
+    "correct_answer": "30%",
+    "difficulty": "easy",
+    "concept_ids": [
+      "C009",
+      "C003"
+    ],
+    "knowledge_points": [
+      "C009",
+      "C003"
+    ],
+    "wrong_answer_examples": [
+      "12%",
+      "40%",
+      "3%"
+    ]
+  },
+  {
+    "question_id": "Q018",
+    "content": "圆中同弧所对的圆周角有什么关系？",
+    "correct_answer": "相等",
+    "difficulty": "medium",
+    "concept_ids": [
+      "C012"
+    ],
+    "knowledge_points": [
+      "C012"
+    ],
+    "wrong_answer_examples": [
+      "互补",
+      "相加等于圆心角",
+      "不确定"
+    ]
+  },
+  {
+    "question_id": "Q019",
+    "content": "解方程：4(x + 1) = 2x + 10。",
+    "correct_answer": "x=3",
+    "difficulty": "medium",
+    "concept_ids": [
+      "C001",
+      "C002",
+      "C003"
+    ],
+    "knowledge_points": [
+      "C001",
+      "C002",
+      "C003"
+    ],
+    "wrong_answer_examples": [
+      "x=2",
+      "x=7",
+      "x=-3"
+    ]
+  },
+  {
+    "question_id": "Q020",
+    "content": "若 a:b = 2:3，且 b = 12，求 a。",
+    "correct_answer": "8",
+    "difficulty": "medium",
+    "concept_ids": [
+      "C003",
+      "C011"
+    ],
+    "knowledge_points": [
+      "C003",
+      "C011"
+    ],
+    "wrong_answer_examples": [
+      "18",
+      "6",
+      "10"
+    ]
+  },
+  {
+    "question_id": "Q021",
+    "content": "阅读折线图可知某日气温从 8 点到 12 点由 18℃ 升至 26℃，求升高了多少。",
+    "correct_answer": "8℃",
+    "difficulty": "easy",
+    "concept_ids": [
+      "C009"
+    ],
+    "knowledge_points": [
+      "C009"
+    ],
+    "wrong_answer_examples": [
+      "44℃",
+      "6℃",
+      "10℃"
+    ]
+  },
+  {
+    "question_id": "Q022",
+    "content": "掷一枚均匀骰子，点数大于 4 的概率是多少？",
+    "correct_answer": "1/3",
+    "difficulty": "easy",
+    "concept_ids": [
+      "C010"
+    ],
+    "knowledge_points": [
+      "C010"
+    ],
+    "wrong_answer_examples": [
+      "2/3",
+      "1/6",
+      "1/2"
+    ]
+  },
+  {
+    "question_id": "Q023",
+    "content": "已知相似三角形对应边比为 2:5，小三角形一边为 6，求大三角形对应边。",
+    "correct_answer": "15",
+    "difficulty": "medium",
+    "concept_ids": [
+      "C011",
+      "C003"
+    ],
+    "knowledge_points": [
+      "C011",
+      "C003"
+    ],
+    "wrong_answer_examples": [
+      "12",
+      "30",
+      "2.4"
+    ]
+  },
+  {
+    "question_id": "Q024",
+    "content": "圆的切线与过切点的半径有什么位置关系？",
+    "correct_answer": "垂直",
+    "difficulty": "easy",
+    "concept_ids": [
+      "C012"
+    ],
+    "knowledge_points": [
+      "C012"
+    ],
+    "wrong_answer_examples": [
+      "平行",
+      "相交但不垂直",
+      "重合"
+    ]
+  },
+  {
+    "question_id": "Q025",
+    "content": "解方程组：x + y = 7，x - y = 1，求 x。",
+    "correct_answer": "x=4",
+    "difficulty": "medium",
+    "concept_ids": [
+      "C001",
+      "C002",
+      "C003"
+    ],
+    "knowledge_points": [
+      "C001",
+      "C002",
+      "C003"
+    ],
+    "wrong_answer_examples": [
+      "x=3",
+      "x=6",
+      "x=8"
+    ]
+  },
+  {
+    "question_id": "Q026",
+    "content": "因式分解：x^2 + 5x + 6。",
+    "correct_answer": "(x+2)(x+3)",
+    "difficulty": "medium",
+    "concept_ids": [
+      "C005",
+      "C003"
+    ],
+    "knowledge_points": [
+      "C005",
+      "C003"
+    ],
+    "wrong_answer_examples": [
+      "(x+1)(x+6)",
+      "(x-2)(x-3)",
+      "不能分解"
+    ]
+  },
+  {
+    "question_id": "Q027",
+    "content": "一次函数 y = 3x + b 经过点 (2, 7)，求 b。",
+    "correct_answer": "1",
+    "difficulty": "medium",
+    "concept_ids": [
+      "C006",
+      "C001",
+      "C003"
+    ],
+    "knowledge_points": [
+      "C006",
+      "C001",
+      "C003"
+    ],
+    "wrong_answer_examples": [
+      "13",
+      "-1",
+      "7"
+    ]
+  },
+  {
+    "question_id": "Q028",
+    "content": "计算：1/2 + 1/3。",
+    "correct_answer": "5/6",
+    "difficulty": "easy",
+    "concept_ids": [
+      "C007"
+    ],
+    "knowledge_points": [
+      "C007"
+    ],
+    "wrong_answer_examples": [
+      "2/5",
+      "1/5",
+      "2/6"
+    ]
+  },
+  {
+    "question_id": "Q029",
+    "content": "证明平行四边形对角线互相平分，需要先连接哪两个顶点形成三角形证明？",
+    "correct_answer": "连接一条对角线",
+    "difficulty": "hard",
+    "concept_ids": [
+      "C008"
+    ],
+    "knowledge_points": [
+      "C008"
+    ],
+    "wrong_answer_examples": [
+      "连接任意一边",
+      "不用辅助线",
+      "只看图即可"
+    ]
+  },
+  {
+    "question_id": "Q030",
+    "content": "某组数据 6, 8, 10, 10, 12 的众数是多少？",
+    "correct_answer": "10",
+    "difficulty": "easy",
+    "concept_ids": [
+      "C009"
+    ],
+    "knowledge_points": [
+      "C009"
+    ],
+    "wrong_answer_examples": [
+      "9.2",
+      "12",
+      "6"
+    ]
+  },
+  {
+    "question_id": "Q031",
+    "content": "从数字 1,2,3,4 中随机选一个偶数的概率是多少？",
+    "correct_answer": "1/2",
+    "difficulty": "easy",
+    "concept_ids": [
+      "C010"
+    ],
+    "knowledge_points": [
+      "C010"
+    ],
+    "wrong_answer_examples": [
+      "1/4",
+      "2",
+      "3/4"
+    ]
+  },
+  {
+    "question_id": "Q032",
+    "content": "同圆中半径为 5，直径是多少？",
+    "correct_answer": "10",
+    "difficulty": "easy",
+    "concept_ids": [
+      "C012"
+    ],
+    "knowledge_points": [
+      "C012"
+    ],
+    "wrong_answer_examples": [
+      "5",
+      "25",
+      "2.5"
+    ]
+  }
+]

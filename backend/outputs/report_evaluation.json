@@ -1,0 +1,1741 @@
+{
+  "summary": {
+    "student_count": 40,
+    "ordinary_llm_average_score": 0.275,
+    "cdm_cot_average_score": 1.0,
+    "average_score_delta": 0.725,
+    "qwen_mode_for_evaluation": "mock 模式"
+  },
+  "comparisons": [
+    {
+      "student_id": "S001",
+      "ordinary_llm": {
+        "structure": 0.4,
+        "cdm_consistency": 0.0,
+        "error_specificity": 0.3,
+        "actionability": 0.5,
+        "total_score": 0.275
+      },
+      "cdm_cot_agent": {
+        "structure": 1.0,
+        "cdm_consistency": 1.0,
+        "error_specificity": 1.0,
+        "actionability": 1.0,
+        "total_score": 1.0
+      },
+      "score_delta": 0.725
+    },
+    {
+      "student_id": "S002",
+      "ordinary_llm": {
+        "structure": 0.4,
+        "cdm_consistency": 0.0,
+        "error_specificity": 0.3,
+        "actionability": 0.5,
+        "total_score": 0.275
+      },
+      "cdm_cot_agent": {
+        "structure": 1.0,
+        "cdm_consistency": 1.0,
+        "error_specificity": 1.0,
+        "actionability": 1.0,
+        "total_score": 1.0
+      },
+      "score_delta": 0.725
+    },
+    {
+      "student_id": "S003",
+      "ordinary_llm": {
+        "structure": 0.4,
+        "cdm_consistency": 0.0,
+        "error_specificity": 0.3,
+        "actionability": 0.5,
+        "total_score": 0.275
+      },
+      "cdm_cot_agent": {
+        "structure": 1.0,
+        "cdm_consistency": 1.0,
+        "error_specificity": 1.0,
+        "actionability": 1.0,
+        "total_score": 1.0
+      },
+      "score_delta": 0.725
+    },
+    {
+      "student_id": "S004",
+      "ordinary_llm": {
+        "structure": 0.4,
+        "cdm_consistency": 0.0,
+        "error_specificity": 0.3,
+        "actionability": 0.5,
+        "total_score": 0.275
+      },
+      "cdm_cot_agent": {
+        "structure": 1.0,
+        "cdm_consistency": 1.0,
+        "error_specificity": 1.0,
+        "actionability": 1.0,
+        "total_score": 1.0
+      },
+      "score_delta": 0.725
+    },
+    {
+      "student_id": "S005",
+      "ordinary_llm": {
+        "structure": 0.4,
+        "cdm_consistency": 0.0,
+        "error_specificity": 0.3,
+        "actionability": 0.5,
+        "total_score": 0.275
+      },
+      "cdm_cot_agent": {
+        "structure": 1.0,
+        "cdm_consistency": 1.0,
+        "error_specificity": 1.0,
+        "actionability": 1.0,
+        "total_score": 1.0
+      },
+      "score_delta": 0.725
+    },
+    {
+      "student_id": "S006",
+      "ordinary_llm": {
+        "structure": 0.4,
+        "cdm_consistency": 0.0,
+        "error_specificity": 0.3,
+        "actionability": 0.5,
+        "total_score": 0.275
+      },
+      "cdm_cot_agent": {
+        "structure": 1.0,
+        "cdm_consistency": 1.0,
+        "error_specificity": 1.0,
+        "actionability": 1.0,
+        "total_score": 1.0
+      },
+      "score_delta": 0.725
+    },
+    {
+      "student_id": "S007",
+      "ordinary_llm": {
+        "structure": 0.4,
+        "cdm_consistency": 0.0,
+        "error_specificity": 0.3,
+        "actionability": 0.5,
+        "total_score": 0.275
+      },
+      "cdm_cot_agent": {
+        "structure": 1.0,
+        "cdm_consistency": 1.0,
+        "error_specificity": 1.0,
+        "actionability": 1.0,
+        "total_score": 1.0
+      },
+      "score_delta": 0.725
+    },
+    {
+      "student_id": "S008",
+      "ordinary_llm": {
+        "structure": 0.4,
+        "cdm_consistency": 0.0,
+        "error_specificity": 0.3,
+        "actionability": 0.5,
+        "total_score": 0.275
+      },
+      "cdm_cot_agent": {
+        "structure": 1.0,
+        "cdm_consistency": 1.0,
+        "error_specificity": 1.0,
+        "actionability": 1.0,
+        "total_score": 1.0
+      },
+      "score_delta": 0.725
+    },
+    {
+      "student_id": "S009",
+      "ordinary_llm": {
+        "structure": 0.4,
+        "cdm_consistency": 0.0,
+        "error_specificity": 0.3,
+        "actionability": 0.5,
+        "total_score": 0.275
+      },
+      "cdm_cot_agent": {
+        "structure": 1.0,
+        "cdm_consistency": 1.0,
+        "error_specificity": 1.0,
+        "actionability": 1.0,
+        "total_score": 1.0
+      },
+      "score_delta": 0.725
+    },
+    {
+      "student_id": "S010",
+      "ordinary_llm": {
+        "structure": 0.4,
+        "cdm_consistency": 0.0,
+        "error_specificity": 0.3,
+        "actionability": 0.5,
+        "total_score": 0.275
+      },
+      "cdm_cot_agent": {
+        "structure": 1.0,
+        "cdm_consistency": 1.0,
+        "error_specificity": 1.0,
+        "actionability": 1.0,
+        "total_score": 1.0
+      },
+      "score_delta": 0.725
+    },
+    {
+      "student_id": "S011",
+      "ordinary_llm": {
+        "structure": 0.4,
+        "cdm_consistency": 0.0,
+        "error_specificity": 0.3,
+        "actionability": 0.5,
+        "total_score": 0.275
+      },
+      "cdm_cot_agent": {
+        "structure": 1.0,
+        "cdm_consistency": 1.0,
+        "error_specificity": 1.0,
+        "actionability": 1.0,
+        "total_score": 1.0
+      },
+      "score_delta": 0.725
+    },
+    {
+      "student_id": "S012",
+      "ordinary_llm": {
+        "structure": 0.4,
+        "cdm_consistency": 0.0,
+        "error_specificity": 0.3,
+        "actionability": 0.5,
+        "total_score": 0.275
+      },
+      "cdm_cot_agent": {
+        "structure": 1.0,
+        "cdm_consistency": 1.0,
+        "error_specificity": 1.0,
+        "actionability": 1.0,
+        "total_score": 1.0
+      },
+      "score_delta": 0.725
+    },
+    {
+      "student_id": "S013",
+      "ordinary_llm": {
+        "structure": 0.4,
+        "cdm_consistency": 0.0,
+        "error_specificity": 0.3,
+        "actionability": 0.5,
+        "total_score": 0.275
+      },
+      "cdm_cot_agent": {
+        "structure": 1.0,
+        "cdm_consistency": 1.0,
+        "error_specificity": 1.0,
+        "actionability": 1.0,
+        "total_score": 1.0
+      },
+      "score_delta": 0.725
+    },
+    {
+      "student_id": "S014",
+      "ordinary_llm": {
+        "structure": 0.4,
+        "cdm_consistency": 0.0,
+        "error_specificity": 0.3,
+        "actionability": 0.5,
+        "total_score": 0.275
+      },
+      "cdm_cot_agent": {
+        "structure": 1.0,
+        "cdm_consistency": 1.0,
+        "error_specificity": 1.0,
+        "actionability": 1.0,
+        "total_score": 1.0
+      },
+      "score_delta": 0.725
+    },
+    {
+      "student_id": "S015",
+      "ordinary_llm": {
+        "structure": 0.4,
+        "cdm_consistency": 0.0,
+        "error_specificity": 0.3,
+        "actionability": 0.5,
+        "total_score": 0.275
+      },
+      "cdm_cot_agent": {
+        "structure": 1.0,
+        "cdm_consistency": 1.0,
+        "error_specificity": 1.0,
+        "actionability": 1.0,
+        "total_score": 1.0
+      },
+      "score_delta": 0.725
+    },
+    {
+      "student_id": "S016",
+      "ordinary_llm": {
+        "structure": 0.4,
+        "cdm_consistency": 0.0,
+        "error_specificity": 0.3,
+        "actionability": 0.5,
+        "total_score": 0.275
+      },
+      "cdm_cot_agent": {
+        "structure": 1.0,
+        "cdm_consistency": 1.0,
+        "error_specificity": 1.0,
+        "actionability": 1.0,
+        "total_score": 1.0
+      },
+      "score_delta": 0.725
+    },
+    {
+      "student_id": "S017",
+      "ordinary_llm": {
+        "structure": 0.4,
+        "cdm_consistency": 0.0,
+        "error_specificity": 0.3,
+        "actionability": 0.5,
+        "total_score": 0.275
+      },
+      "cdm_cot_agent": {
+        "structure": 1.0,
+        "cdm_consistency": 1.0,
+        "error_specificity": 1.0,
+        "actionability": 1.0,
+        "total_score": 1.0
+      },
+      "score_delta": 0.725
+    },
+    {
+      "student_id": "S018",
+      "ordinary_llm": {
+        "structure": 0.4,
+        "cdm_consistency": 0.0,
+        "error_specificity": 0.3,
+        "actionability": 0.5,
+        "total_score": 0.275
+      },
+      "cdm_cot_agent": {
+        "structure": 1.0,
+        "cdm_consistency": 1.0,
+        "error_specificity": 1.0,
+        "actionability": 1.0,
+        "total_score": 1.0
+      },
+      "score_delta": 0.725
+    },
+    {
+      "student_id": "S019",
+      "ordinary_llm": {
+        "structure": 0.4,
+        "cdm_consistency": 0.0,
+        "error_specificity": 0.3,
+        "actionability": 0.5,
+        "total_score": 0.275
+      },
+      "cdm_cot_agent": {
+        "structure": 1.0,
+        "cdm_consistency": 1.0,
+        "error_specificity": 1.0,
+        "actionability": 1.0,
+        "total_score": 1.0
+      },
+      "score_delta": 0.725
+    },
+    {
+      "student_id": "S020",
+      "ordinary_llm": {
+        "structure": 0.4,
+        "cdm_consistency": 0.0,
+        "error_specificity": 0.3,
+        "actionability": 0.5,
+        "total_score": 0.275
+      },
+      "cdm_cot_agent": {
+        "structure": 1.0,
+        "cdm_consistency": 1.0,
+        "error_specificity": 1.0,
+        "actionability": 1.0,
+        "total_score": 1.0
+      },
+      "score_delta": 0.725
+    },
+    {
+      "student_id": "S021",
+      "ordinary_llm": {
+        "structure": 0.4,
+        "cdm_consistency": 0.0,
+        "error_specificity": 0.3,
+        "actionability": 0.5,
+        "total_score": 0.275
+      },
+      "cdm_cot_agent": {
+        "structure": 1.0,
+        "cdm_consistency": 1.0,
+        "error_specificity": 1.0,
+        "actionability": 1.0,
+        "total_score": 1.0
+      },
+      "score_delta": 0.725
+    },
+    {
+      "student_id": "S022",
+      "ordinary_llm": {
+        "structure": 0.4,
+        "cdm_consistency": 0.0,
+        "error_specificity": 0.3,
+        "actionability": 0.5,
+        "total_score": 0.275
+      },
+      "cdm_cot_agent": {
+        "structure": 1.0,
+        "cdm_consistency": 1.0,
+        "error_specificity": 1.0,
+        "actionability": 1.0,
+        "total_score": 1.0
+      },
+      "score_delta": 0.725
+    },
+    {
+      "student_id": "S023",
+      "ordinary_llm": {
+        "structure": 0.4,
+        "cdm_consistency": 0.0,
+        "error_specificity": 0.3,
+        "actionability": 0.5,
+        "total_score": 0.275
+      },
+      "cdm_cot_agent": {
+        "structure": 1.0,
+        "cdm_consistency": 1.0,
+        "error_specificity": 1.0,
+        "actionability": 1.0,
+        "total_score": 1.0
+      },
+      "score_delta": 0.725
+    },
+    {
+      "student_id": "S024",
+      "ordinary_llm": {
+        "structure": 0.4,
+        "cdm_consistency": 0.0,
+        "error_specificity": 0.3,
+        "actionability": 0.5,
+        "total_score": 0.275
+      },
+      "cdm_cot_agent": {
+        "structure": 1.0,
+        "cdm_consistency": 1.0,
+        "error_specificity": 1.0,
+        "actionability": 1.0,
+        "total_score": 1.0
+      },
+      "score_delta": 0.725
+    },
+    {
+      "student_id": "S025",
+      "ordinary_llm": {
+        "structure": 0.4,
+        "cdm_consistency": 0.0,
+        "error_specificity": 0.3,
+        "actionability": 0.5,
+        "total_score": 0.275
+      },
+      "cdm_cot_agent": {
+        "structure": 1.0,
+        "cdm_consistency": 1.0,
+        "error_specificity": 1.0,
+        "actionability": 1.0,
+        "total_score": 1.0
+      },
+      "score_delta": 0.725
+    },
+    {
+      "student_id": "S026",
+      "ordinary_llm": {
+        "structure": 0.4,
+        "cdm_consistency": 0.0,
+        "error_specificity": 0.3,
+        "actionability": 0.5,
+        "total_score": 0.275
+      },
+      "cdm_cot_agent": {
+        "structure": 1.0,
+        "cdm_consistency": 1.0,
+        "error_specificity": 1.0,
+        "actionability": 1.0,
+        "total_score": 1.0
+      },
+      "score_delta": 0.725
+    },
+    {
+      "student_id": "S027",
+      "ordinary_llm": {
+        "structure": 0.4,
+        "cdm_consistency": 0.0,
+        "error_specificity": 0.3,
+        "actionability": 0.5,
+        "total_score": 0.275
+      },
+      "cdm_cot_agent": {
+        "structure": 1.0,
+        "cdm_consistency": 1.0,
+        "error_specificity": 1.0,
+        "actionability": 1.0,
+        "total_score": 1.0
+      },
+      "score_delta": 0.725
+    },
+    {
+      "student_id": "S028",
+      "ordinary_llm": {
+        "structure": 0.4,
+        "cdm_consistency": 0.0,
+        "error_specificity": 0.3,
+        "actionability": 0.5,
+        "total_score": 0.275
+      },
+      "cdm_cot_agent": {
+        "structure": 1.0,
+        "cdm_consistency": 1.0,
+        "error_specificity": 1.0,
+        "actionability": 1.0,
+        "total_score": 1.0
+      },
+      "score_delta": 0.725
+    },
+    {
+      "student_id": "S029",
+      "ordinary_llm": {
+        "structure": 0.4,
+        "cdm_consistency": 0.0,
+        "error_specificity": 0.3,
+        "actionability": 0.5,
+        "total_score": 0.275
+      },
+      "cdm_cot_agent": {
+        "structure": 1.0,
+        "cdm_consistency": 1.0,
+        "error_specificity": 1.0,
+        "actionability": 1.0,
+        "total_score": 1.0
+      },
+      "score_delta": 0.725
+    },
+    {
+      "student_id": "S030",
+      "ordinary_llm": {
+        "structure": 0.4,
+        "cdm_consistency": 0.0,
+        "error_specificity": 0.3,
+        "actionability": 0.5,
+        "total_score": 0.275
+      },
+      "cdm_cot_agent": {
+        "structure": 1.0,
+        "cdm_consistency": 1.0,
+        "error_specificity": 1.0,
+        "actionability": 1.0,
+        "total_score": 1.0
+      },
+      "score_delta": 0.725
+    },
+    {
+      "student_id": "S031",
+      "ordinary_llm": {
+        "structure": 0.4,
+        "cdm_consistency": 0.0,
+        "error_specificity": 0.3,
+        "actionability": 0.5,
+        "total_score": 0.275
+      },
+      "cdm_cot_agent": {
+        "structure": 1.0,
+        "cdm_consistency": 1.0,
+        "error_specificity": 1.0,
+        "actionability": 1.0,
+        "total_score": 1.0
+      },
+      "score_delta": 0.725
+    },
+    {
+      "student_id": "S032",
+      "ordinary_llm": {
+        "structure": 0.4,
+        "cdm_consistency": 0.0,
+        "error_specificity": 0.3,
+        "actionability": 0.5,
+        "total_score": 0.275
+      },
+      "cdm_cot_agent": {
+        "structure": 1.0,
+        "cdm_consistency": 1.0,
+        "error_specificity": 1.0,
+        "actionability": 1.0,
+        "total_score": 1.0
+      },
+      "score_delta": 0.725
+    },
+    {
+      "student_id": "S033",
+      "ordinary_llm": {
+        "structure": 0.4,
+        "cdm_consistency": 0.0,
+        "error_specificity": 0.3,
+        "actionability": 0.5,
+        "total_score": 0.275
+      },
+      "cdm_cot_agent": {
+        "structure": 1.0,
+        "cdm_consistency": 1.0,
+        "error_specificity": 1.0,
+        "actionability": 1.0,
+        "total_score": 1.0
+      },
+      "score_delta": 0.725
+    },
+    {
+      "student_id": "S034",
+      "ordinary_llm": {
+        "structure": 0.4,
+        "cdm_consistency": 0.0,
+        "error_specificity": 0.3,
+        "actionability": 0.5,
+        "total_score": 0.275
+      },
+      "cdm_cot_agent": {
+        "structure": 1.0,
+        "cdm_consistency": 1.0,
+        "error_specificity": 1.0,
+        "actionability": 1.0,
+        "total_score": 1.0
+      },
+      "score_delta": 0.725
+    },
+    {
+      "student_id": "S035",
+      "ordinary_llm": {
+        "structure": 0.4,
+        "cdm_consistency": 0.0,
+        "error_specificity": 0.3,
+        "actionability": 0.5,
+        "total_score": 0.275
+      },
+      "cdm_cot_agent": {
+        "structure": 1.0,
+        "cdm_consistency": 1.0,
+        "error_specificity": 1.0,
+        "actionability": 1.0,
+        "total_score": 1.0
+      },
+      "score_delta": 0.725
+    },
+    {
+      "student_id": "S036",
+      "ordinary_llm": {
+        "structure": 0.4,
+        "cdm_consistency": 0.0,
+        "error_specificity": 0.3,
+        "actionability": 0.5,
+        "total_score": 0.275
+      },
+      "cdm_cot_agent": {
+        "structure": 1.0,
+        "cdm_consistency": 1.0,
+        "error_specificity": 1.0,
+        "actionability": 1.0,
+        "total_score": 1.0
+      },
+      "score_delta": 0.725
+    },
+    {
+      "student_id": "S037",
+      "ordinary_llm": {
+        "structure": 0.4,
+        "cdm_consistency": 0.0,
+        "error_specificity": 0.3,
+        "actionability": 0.5,
+        "total_score": 0.275
+      },
+      "cdm_cot_agent": {
+        "structure": 1.0,
+        "cdm_consistency": 1.0,
+        "error_specificity": 1.0,
+        "actionability": 1.0,
+        "total_score": 1.0
+      },
+      "score_delta": 0.725
+    },
+    {
+      "student_id": "S038",
+      "ordinary_llm": {
+        "structure": 0.4,
+        "cdm_consistency": 0.0,
+        "error_specificity": 0.3,
+        "actionability": 0.5,
+        "total_score": 0.275
+      },
+      "cdm_cot_agent": {
+        "structure": 1.0,
+        "cdm_consistency": 1.0,
+        "error_specificity": 1.0,
+        "actionability": 1.0,
+        "total_score": 1.0
+      },
+      "score_delta": 0.725
+    },
+    {
+      "student_id": "S039",
+      "ordinary_llm": {
+        "structure": 0.4,
+        "cdm_consistency": 0.0,
+        "error_specificity": 0.3,
+        "actionability": 0.5,
+        "total_score": 0.275
+      },
+      "cdm_cot_agent": {
+        "structure": 1.0,
+        "cdm_consistency": 1.0,
+        "error_specificity": 1.0,
+        "actionability": 1.0,
+        "total_score": 1.0
+      },
+      "score_delta": 0.725
+    },
+    {
+      "student_id": "S040",
+      "ordinary_llm": {
+        "structure": 0.4,
+        "cdm_consistency": 0.0,
+        "error_specificity": 0.3,
+        "actionability": 0.5,
+        "total_score": 0.275
+      },
+      "cdm_cot_agent": {
+        "structure": 1.0,
+        "cdm_consistency": 1.0,
+        "error_specificity": 1.0,
+        "actionability": 1.0,
+        "total_score": 1.0
+      },
+      "score_delta": 0.725
+    }
+  ],
+  "ablation": [
+    {
+      "student_id": "S001",
+      "only_correct_rate": {
+        "accuracy": 0.7188,
+        "diagnosis_signal": "整体正确率，无法定位潜在知识点掌握概率。"
+      },
+      "dina_mastery": {
+        "weak_concepts": [
+          "三角形面积",
+          "函数图像",
+          "相似三角形"
+        ],
+        "diagnosis_signal": "可定位低掌握知识点，但缺少自然语言错因解释。"
+      },
+      "dina_plus_cot_agent": {
+        "weak_concepts": [
+          "三角形面积",
+          "相似三角形",
+          "函数图像"
+        ],
+        "error_count": 9,
+        "diagnosis_signal": "同时包含 CDM 掌握度、错因解释、认知断点和学习建议。"
+      }
+    },
+    {
+      "student_id": "S002",
+      "only_correct_rate": {
+        "accuracy": 0.8438,
+        "diagnosis_signal": "整体正确率，无法定位潜在知识点掌握概率。"
+      },
+      "dina_mastery": {
+        "weak_concepts": [
+          "分式运算",
+          "相似三角形"
+        ],
+        "diagnosis_signal": "可定位低掌握知识点，但缺少自然语言错因解释。"
+      },
+      "dina_plus_cot_agent": {
+        "weak_concepts": [
+          "分式运算",
+          "相似三角形"
+        ],
+        "error_count": 5,
+        "diagnosis_signal": "同时包含 CDM 掌握度、错因解释、认知断点和学习建议。"
+      }
+    },
+    {
+      "student_id": "S003",
+      "only_correct_rate": {
+        "accuracy": 0.5,
+        "diagnosis_signal": "整体正确率，无法定位潜在知识点掌握概率。"
+      },
+      "dina_mastery": {
+        "weak_concepts": [
+          "等式性质",
+          "一元二次方程",
+          "分式运算",
+          "几何证明"
+        ],
+        "diagnosis_signal": "可定位低掌握知识点，但缺少自然语言错因解释。"
+      },
+      "dina_plus_cot_agent": {
+        "weak_concepts": [
+          "分式运算",
+          "几何证明",
+          "等式性质",
+          "一元二次方程"
+        ],
+        "error_count": 16,
+        "diagnosis_signal": "同时包含 CDM 掌握度、错因解释、认知断点和学习建议。"
+      }
+    },
+    {
+      "student_id": "S004",
+      "only_correct_rate": {
+        "accuracy": 0.6875,
+        "diagnosis_signal": "整体正确率，无法定位潜在知识点掌握概率。"
+      },
+      "dina_mastery": {
+        "weak_concepts": [
+          "分式运算",
+          "几何证明",
+          "圆的性质"
+        ],
+        "diagnosis_signal": "可定位低掌握知识点，但缺少自然语言错因解释。"
+      },
+      "dina_plus_cot_agent": {
+        "weak_concepts": [
+          "几何证明",
+          "圆的性质",
+          "分式运算"
+        ],
+        "error_count": 10,
+        "diagnosis_signal": "同时包含 CDM 掌握度、错因解释、认知断点和学习建议。"
+      }
+    },
+    {
+      "student_id": "S005",
+      "only_correct_rate": {
+        "accuracy": 0.4688,
+        "diagnosis_signal": "整体正确率，无法定位潜在知识点掌握概率。"
+      },
+      "dina_mastery": {
+        "weak_concepts": [
+          "一元一次方程",
+          "等式性质",
+          "代数运算",
+          "一元二次方程",
+          "函数图像",
+          "相似三角形",
+          "圆的性质"
+        ],
+        "diagnosis_signal": "可定位低掌握知识点，但缺少自然语言错因解释。"
+      },
+      "dina_plus_cot_agent": {
+        "weak_concepts": [
+          "代数运算",
+          "相似三角形",
+          "一元二次方程",
+          "圆的性质",
+          "一元一次方程",
+          "等式性质",
+          "函数图像"
+        ],
+        "error_count": 17,
+        "diagnosis_signal": "同时包含 CDM 掌握度、错因解释、认知断点和学习建议。"
+      }
+    },
+    {
+      "student_id": "S006",
+      "only_correct_rate": {
+        "accuracy": 0.6562,
+        "diagnosis_signal": "整体正确率，无法定位潜在知识点掌握概率。"
+      },
+      "dina_mastery": {
+        "weak_concepts": [
+          "代数运算",
+          "函数图像",
+          "分式运算"
+        ],
+        "diagnosis_signal": "可定位低掌握知识点，但缺少自然语言错因解释。"
+      },
+      "dina_plus_cot_agent": {
+        "weak_concepts": [
+          "分式运算",
+          "代数运算",
+          "函数图像"
+        ],
+        "error_count": 11,
+        "diagnosis_signal": "同时包含 CDM 掌握度、错因解释、认知断点和学习建议。"
+      }
+    },
+    {
+      "student_id": "S007",
+      "only_correct_rate": {
+        "accuracy": 0.6875,
+        "diagnosis_signal": "整体正确率，无法定位潜在知识点掌握概率。"
+      },
+      "dina_mastery": {
+        "weak_concepts": [
+          "一元一次方程",
+          "等式性质",
+          "函数图像",
+          "相似三角形"
+        ],
+        "diagnosis_signal": "可定位低掌握知识点，但缺少自然语言错因解释。"
+      },
+      "dina_plus_cot_agent": {
+        "weak_concepts": [
+          "函数图像",
+          "相似三角形",
+          "一元一次方程",
+          "等式性质"
+        ],
+        "error_count": 10,
+        "diagnosis_signal": "同时包含 CDM 掌握度、错因解释、认知断点和学习建议。"
+      }
+    },
+    {
+      "student_id": "S008",
+      "only_correct_rate": {
+        "accuracy": 0.6875,
+        "diagnosis_signal": "整体正确率，无法定位潜在知识点掌握概率。"
+      },
+      "dina_mastery": {
+        "weak_concepts": [
+          "一元二次方程",
+          "分式运算",
+          "统计图表"
+        ],
+        "diagnosis_signal": "可定位低掌握知识点，但缺少自然语言错因解释。"
+      },
+      "dina_plus_cot_agent": {
+        "weak_concepts": [
+          "统计图表",
+          "分式运算",
+          "一元二次方程"
+        ],
+        "error_count": 10,
+        "diagnosis_signal": "同时包含 CDM 掌握度、错因解释、认知断点和学习建议。"
+      }
+    },
+    {
+      "student_id": "S009",
+      "only_correct_rate": {
+        "accuracy": 0.75,
+        "diagnosis_signal": "整体正确率，无法定位潜在知识点掌握概率。"
+      },
+      "dina_mastery": {
+        "weak_concepts": [
+          "几何证明"
+        ],
+        "diagnosis_signal": "可定位低掌握知识点，但缺少自然语言错因解释。"
+      },
+      "dina_plus_cot_agent": {
+        "weak_concepts": [
+          "几何证明"
+        ],
+        "error_count": 8,
+        "diagnosis_signal": "同时包含 CDM 掌握度、错因解释、认知断点和学习建议。"
+      }
+    },
+    {
+      "student_id": "S010",
+      "only_correct_rate": {
+        "accuracy": 0.7812,
+        "diagnosis_signal": "整体正确率，无法定位潜在知识点掌握概率。"
+      },
+      "dina_mastery": {
+        "weak_concepts": [
+          "三角形面积",
+          "几何证明"
+        ],
+        "diagnosis_signal": "可定位低掌握知识点，但缺少自然语言错因解释。"
+      },
+      "dina_plus_cot_agent": {
+        "weak_concepts": [
+          "几何证明",
+          "三角形面积"
+        ],
+        "error_count": 7,
+        "diagnosis_signal": "同时包含 CDM 掌握度、错因解释、认知断点和学习建议。"
+      }
+    },
+    {
+      "student_id": "S011",
+      "only_correct_rate": {
+        "accuracy": 0.8125,
+        "diagnosis_signal": "整体正确率，无法定位潜在知识点掌握概率。"
+      },
+      "dina_mastery": {
+        "weak_concepts": [
+          "分式运算",
+          "相似三角形"
+        ],
+        "diagnosis_signal": "可定位低掌握知识点，但缺少自然语言错因解释。"
+      },
+      "dina_plus_cot_agent": {
+        "weak_concepts": [
+          "分式运算",
+          "相似三角形"
+        ],
+        "error_count": 6,
+        "diagnosis_signal": "同时包含 CDM 掌握度、错因解释、认知断点和学习建议。"
+      }
+    },
+    {
+      "student_id": "S012",
+      "only_correct_rate": {
+        "accuracy": 0.6562,
+        "diagnosis_signal": "整体正确率，无法定位潜在知识点掌握概率。"
+      },
+      "dina_mastery": {
+        "weak_concepts": [
+          "等式性质",
+          "一元二次方程",
+          "分式运算",
+          "几何证明"
+        ],
+        "diagnosis_signal": "可定位低掌握知识点，但缺少自然语言错因解释。"
+      },
+      "dina_plus_cot_agent": {
+        "weak_concepts": [
+          "分式运算",
+          "几何证明",
+          "等式性质",
+          "一元二次方程"
+        ],
+        "error_count": 11,
+        "diagnosis_signal": "同时包含 CDM 掌握度、错因解释、认知断点和学习建议。"
+      }
+    },
+    {
+      "student_id": "S013",
+      "only_correct_rate": {
+        "accuracy": 0.625,
+        "diagnosis_signal": "整体正确率，无法定位潜在知识点掌握概率。"
+      },
+      "dina_mastery": {
+        "weak_concepts": [
+          "三角形面积",
+          "函数图像",
+          "分式运算",
+          "相似三角形"
+        ],
+        "diagnosis_signal": "可定位低掌握知识点，但缺少自然语言错因解释。"
+      },
+      "dina_plus_cot_agent": {
+        "weak_concepts": [
+          "分式运算",
+          "相似三角形",
+          "函数图像",
+          "三角形面积"
+        ],
+        "error_count": 12,
+        "diagnosis_signal": "同时包含 CDM 掌握度、错因解释、认知断点和学习建议。"
+      }
+    },
+    {
+      "student_id": "S014",
+      "only_correct_rate": {
+        "accuracy": 0.7812,
+        "diagnosis_signal": "整体正确率，无法定位潜在知识点掌握概率。"
+      },
+      "dina_mastery": {
+        "weak_concepts": [
+          "三角形面积",
+          "函数图像",
+          "分式运算",
+          "概率初步"
+        ],
+        "diagnosis_signal": "可定位低掌握知识点，但缺少自然语言错因解释。"
+      },
+      "dina_plus_cot_agent": {
+        "weak_concepts": [
+          "三角形面积",
+          "分式运算",
+          "函数图像",
+          "概率初步"
+        ],
+        "error_count": 7,
+        "diagnosis_signal": "同时包含 CDM 掌握度、错因解释、认知断点和学习建议。"
+      }
+    },
+    {
+      "student_id": "S015",
+      "only_correct_rate": {
+        "accuracy": 0.75,
+        "diagnosis_signal": "整体正确率，无法定位潜在知识点掌握概率。"
+      },
+      "dina_mastery": {
+        "weak_concepts": [
+          "三角形面积",
+          "几何证明",
+          "圆的性质"
+        ],
+        "diagnosis_signal": "可定位低掌握知识点，但缺少自然语言错因解释。"
+      },
+      "dina_plus_cot_agent": {
+        "weak_concepts": [
+          "三角形面积",
+          "几何证明",
+          "圆的性质"
+        ],
+        "error_count": 8,
+        "diagnosis_signal": "同时包含 CDM 掌握度、错因解释、认知断点和学习建议。"
+      }
+    },
+    {
+      "student_id": "S016",
+      "only_correct_rate": {
+        "accuracy": 0.75,
+        "diagnosis_signal": "整体正确率，无法定位潜在知识点掌握概率。"
+      },
+      "dina_mastery": {
+        "weak_concepts": [
+          "分式运算",
+          "几何证明"
+        ],
+        "diagnosis_signal": "可定位低掌握知识点，但缺少自然语言错因解释。"
+      },
+      "dina_plus_cot_agent": {
+        "weak_concepts": [
+          "几何证明",
+          "分式运算"
+        ],
+        "error_count": 8,
+        "diagnosis_signal": "同时包含 CDM 掌握度、错因解释、认知断点和学习建议。"
+      }
+    },
+    {
+      "student_id": "S017",
+      "only_correct_rate": {
+        "accuracy": 0.5938,
+        "diagnosis_signal": "整体正确率，无法定位潜在知识点掌握概率。"
+      },
+      "dina_mastery": {
+        "weak_concepts": [
+          "函数图像",
+          "几何证明",
+          "相似三角形",
+          "圆的性质"
+        ],
+        "diagnosis_signal": "可定位低掌握知识点，但缺少自然语言错因解释。"
+      },
+      "dina_plus_cot_agent": {
+        "weak_concepts": [
+          "函数图像",
+          "几何证明",
+          "相似三角形",
+          "圆的性质"
+        ],
+        "error_count": 13,
+        "diagnosis_signal": "同时包含 CDM 掌握度、错因解释、认知断点和学习建议。"
+      }
+    },
+    {
+      "student_id": "S018",
+      "only_correct_rate": {
+        "accuracy": 0.625,
+        "diagnosis_signal": "整体正确率，无法定位潜在知识点掌握概率。"
+      },
+      "dina_mastery": {
+        "weak_concepts": [
+          "函数图像",
+          "分式运算"
+        ],
+        "diagnosis_signal": "可定位低掌握知识点，但缺少自然语言错因解释。"
+      },
+      "dina_plus_cot_agent": {
+        "weak_concepts": [
+          "分式运算",
+          "函数图像"
+        ],
+        "error_count": 12,
+        "diagnosis_signal": "同时包含 CDM 掌握度、错因解释、认知断点和学习建议。"
+      }
+    },
+    {
+      "student_id": "S019",
+      "only_correct_rate": {
+        "accuracy": 0.625,
+        "diagnosis_signal": "整体正确率，无法定位潜在知识点掌握概率。"
+      },
+      "dina_mastery": {
+        "weak_concepts": [
+          "等式性质",
+          "统计图表",
+          "概率初步",
+          "相似三角形"
+        ],
+        "diagnosis_signal": "可定位低掌握知识点，但缺少自然语言错因解释。"
+      },
+      "dina_plus_cot_agent": {
+        "weak_concepts": [
+          "统计图表",
+          "相似三角形",
+          "等式性质",
+          "概率初步"
+        ],
+        "error_count": 12,
+        "diagnosis_signal": "同时包含 CDM 掌握度、错因解释、认知断点和学习建议。"
+      }
+    },
+    {
+      "student_id": "S020",
+      "only_correct_rate": {
+        "accuracy": 0.375,
+        "diagnosis_signal": "整体正确率，无法定位潜在知识点掌握概率。"
+      },
+      "dina_mastery": {
+        "weak_concepts": [
+          "一元一次方程",
+          "等式性质",
+          "代数运算",
+          "一元二次方程",
+          "函数图像",
+          "几何证明",
+          "统计图表",
+          "相似三角形"
+        ],
+        "diagnosis_signal": "可定位低掌握知识点，但缺少自然语言错因解释。"
+      },
+      "dina_plus_cot_agent": {
+        "weak_concepts": [
+          "代数运算",
+          "一元二次方程",
+          "几何证明",
+          "统计图表",
+          "一元一次方程",
+          "等式性质",
+          "函数图像",
+          "相似三角形"
+        ],
+        "error_count": 20,
+        "diagnosis_signal": "同时包含 CDM 掌握度、错因解释、认知断点和学习建议。"
+      }
+    },
+    {
+      "student_id": "S021",
+      "only_correct_rate": {
+        "accuracy": 0.75,
+        "diagnosis_signal": "整体正确率，无法定位潜在知识点掌握概率。"
+      },
+      "dina_mastery": {
+        "weak_concepts": [
+          "三角形面积",
+          "一元二次方程",
+          "函数图像",
+          "统计图表"
+        ],
+        "diagnosis_signal": "可定位低掌握知识点，但缺少自然语言错因解释。"
+      },
+      "dina_plus_cot_agent": {
+        "weak_concepts": [
+          "函数图像",
+          "三角形面积",
+          "统计图表",
+          "一元二次方程"
+        ],
+        "error_count": 8,
+        "diagnosis_signal": "同时包含 CDM 掌握度、错因解释、认知断点和学习建议。"
+      }
+    },
+    {
+      "student_id": "S022",
+      "only_correct_rate": {
+        "accuracy": 0.8125,
+        "diagnosis_signal": "整体正确率，无法定位潜在知识点掌握概率。"
+      },
+      "dina_mastery": {
+        "weak_concepts": [
+          "函数图像",
+          "统计图表"
+        ],
+        "diagnosis_signal": "可定位低掌握知识点，但缺少自然语言错因解释。"
+      },
+      "dina_plus_cot_agent": {
+        "weak_concepts": [
+          "函数图像",
+          "统计图表"
+        ],
+        "error_count": 6,
+        "diagnosis_signal": "同时包含 CDM 掌握度、错因解释、认知断点和学习建议。"
+      }
+    },
+    {
+      "student_id": "S023",
+      "only_correct_rate": {
+        "accuracy": 0.5312,
+        "diagnosis_signal": "整体正确率，无法定位潜在知识点掌握概率。"
+      },
+      "dina_mastery": {
+        "weak_concepts": [
+          "三角形面积",
+          "一元二次方程",
+          "分式运算",
+          "几何证明",
+          "相似三角形",
+          "圆的性质"
+        ],
+        "diagnosis_signal": "可定位低掌握知识点，但缺少自然语言错因解释。"
+      },
+      "dina_plus_cot_agent": {
+        "weak_concepts": [
+          "三角形面积",
+          "相似三角形",
+          "圆的性质",
+          "一元二次方程",
+          "分式运算",
+          "几何证明"
+        ],
+        "error_count": 15,
+        "diagnosis_signal": "同时包含 CDM 掌握度、错因解释、认知断点和学习建议。"
+      }
+    },
+    {
+      "student_id": "S024",
+      "only_correct_rate": {
+        "accuracy": 0.8125,
+        "diagnosis_signal": "整体正确率，无法定位潜在知识点掌握概率。"
+      },
+      "dina_mastery": {
+        "weak_concepts": [
+          "三角形面积",
+          "几何证明"
+        ],
+        "diagnosis_signal": "可定位低掌握知识点，但缺少自然语言错因解释。"
+      },
+      "dina_plus_cot_agent": {
+        "weak_concepts": [
+          "三角形面积",
+          "几何证明"
+        ],
+        "error_count": 6,
+        "diagnosis_signal": "同时包含 CDM 掌握度、错因解释、认知断点和学习建议。"
+      }
+    },
+    {
+      "student_id": "S025",
+      "only_correct_rate": {
+        "accuracy": 0.625,
+        "diagnosis_signal": "整体正确率，无法定位潜在知识点掌握概率。"
+      },
+      "dina_mastery": {
+        "weak_concepts": [
+          "一元一次方程",
+          "等式性质",
+          "函数图像",
+          "分式运算",
+          "几何证明"
+        ],
+        "diagnosis_signal": "可定位低掌握知识点，但缺少自然语言错因解释。"
+      },
+      "dina_plus_cot_agent": {
+        "weak_concepts": [
+          "分式运算",
+          "几何证明",
+          "函数图像",
+          "等式性质",
+          "一元一次方程"
+        ],
+        "error_count": 12,
+        "diagnosis_signal": "同时包含 CDM 掌握度、错因解释、认知断点和学习建议。"
+      }
+    },
+    {
+      "student_id": "S026",
+      "only_correct_rate": {
+        "accuracy": 0.625,
+        "diagnosis_signal": "整体正确率，无法定位潜在知识点掌握概率。"
+      },
+      "dina_mastery": {
+        "weak_concepts": [
+          "一元一次方程",
+          "等式性质",
+          "代数运算",
+          "函数图像",
+          "分式运算",
+          "相似三角形"
+        ],
+        "diagnosis_signal": "可定位低掌握知识点，但缺少自然语言错因解释。"
+      },
+      "dina_plus_cot_agent": {
+        "weak_concepts": [
+          "分式运算",
+          "相似三角形",
+          "代数运算",
+          "一元一次方程",
+          "等式性质",
+          "函数图像"
+        ],
+        "error_count": 12,
+        "diagnosis_signal": "同时包含 CDM 掌握度、错因解释、认知断点和学习建议。"
+      }
+    },
+    {
+      "student_id": "S027",
+      "only_correct_rate": {
+        "accuracy": 0.7812,
+        "diagnosis_signal": "整体正确率，无法定位潜在知识点掌握概率。"
+      },
+      "dina_mastery": {
+        "weak_concepts": [
+          "三角形面积",
+          "分式运算"
+        ],
+        "diagnosis_signal": "可定位低掌握知识点，但缺少自然语言错因解释。"
+      },
+      "dina_plus_cot_agent": {
+        "weak_concepts": [
+          "分式运算",
+          "三角形面积"
+        ],
+        "error_count": 7,
+        "diagnosis_signal": "同时包含 CDM 掌握度、错因解释、认知断点和学习建议。"
+      }
+    },
+    {
+      "student_id": "S028",
+      "only_correct_rate": {
+        "accuracy": 0.6562,
+        "diagnosis_signal": "整体正确率，无法定位潜在知识点掌握概率。"
+      },
+      "dina_mastery": {
+        "weak_concepts": [
+          "代数运算",
+          "三角形面积",
+          "函数图像"
+        ],
+        "diagnosis_signal": "可定位低掌握知识点，但缺少自然语言错因解释。"
+      },
+      "dina_plus_cot_agent": {
+        "weak_concepts": [
+          "三角形面积",
+          "代数运算",
+          "函数图像"
+        ],
+        "error_count": 11,
+        "diagnosis_signal": "同时包含 CDM 掌握度、错因解释、认知断点和学习建议。"
+      }
+    },
+    {
+      "student_id": "S029",
+      "only_correct_rate": {
+        "accuracy": 0.7188,
+        "diagnosis_signal": "整体正确率，无法定位潜在知识点掌握概率。"
+      },
+      "dina_mastery": {
+        "weak_concepts": [
+          "函数图像",
+          "几何证明",
+          "相似三角形",
+          "圆的性质"
+        ],
+        "diagnosis_signal": "可定位低掌握知识点，但缺少自然语言错因解释。"
+      },
+      "dina_plus_cot_agent": {
+        "weak_concepts": [
+          "函数图像",
+          "相似三角形",
+          "几何证明",
+          "圆的性质"
+        ],
+        "error_count": 9,
+        "diagnosis_signal": "同时包含 CDM 掌握度、错因解释、认知断点和学习建议。"
+      }
+    },
+    {
+      "student_id": "S030",
+      "only_correct_rate": {
+        "accuracy": 0.5312,
+        "diagnosis_signal": "整体正确率，无法定位潜在知识点掌握概率。"
+      },
+      "dina_mastery": {
+        "weak_concepts": [
+          "一元一次方程",
+          "等式性质",
+          "函数图像",
+          "统计图表",
+          "概率初步"
+        ],
+        "diagnosis_signal": "可定位低掌握知识点，但缺少自然语言错因解释。"
+      },
+      "dina_plus_cot_agent": {
+        "weak_concepts": [
+          "函数图像",
+          "统计图表",
+          "概率初步",
+          "等式性质",
+          "一元一次方程"
+        ],
+        "error_count": 15,
+        "diagnosis_signal": "同时包含 CDM 掌握度、错因解释、认知断点和学习建议。"
+      }
+    },
+    {
+      "student_id": "S031",
+      "only_correct_rate": {
+        "accuracy": 0.75,
+        "diagnosis_signal": "整体正确率，无法定位潜在知识点掌握概率。"
+      },
+      "dina_mastery": {
+        "weak_concepts": [
+          "三角形面积",
+          "分式运算",
+          "相似三角形"
+        ],
+        "diagnosis_signal": "可定位低掌握知识点，但缺少自然语言错因解释。"
+      },
+      "dina_plus_cot_agent": {
+        "weak_concepts": [
+          "三角形面积",
+          "分式运算",
+          "相似三角形"
+        ],
+        "error_count": 8,
+        "diagnosis_signal": "同时包含 CDM 掌握度、错因解释、认知断点和学习建议。"
+      }
+    },
+    {
+      "student_id": "S032",
+      "only_correct_rate": {
+        "accuracy": 0.7812,
+        "diagnosis_signal": "整体正确率，无法定位潜在知识点掌握概率。"
+      },
+      "dina_mastery": {
+        "weak_concepts": [
+          "三角形面积",
+          "函数图像"
+        ],
+        "diagnosis_signal": "可定位低掌握知识点，但缺少自然语言错因解释。"
+      },
+      "dina_plus_cot_agent": {
+        "weak_concepts": [
+          "函数图像",
+          "三角形面积"
+        ],
+        "error_count": 7,
+        "diagnosis_signal": "同时包含 CDM 掌握度、错因解释、认知断点和学习建议。"
+      }
+    },
+    {
+      "student_id": "S033",
+      "only_correct_rate": {
+        "accuracy": 0.6562,
+        "diagnosis_signal": "整体正确率，无法定位潜在知识点掌握概率。"
+      },
+      "dina_mastery": {
+        "weak_concepts": [
+          "三角形面积",
+          "相似三角形",
+          "圆的性质"
+        ],
+        "diagnosis_signal": "可定位低掌握知识点，但缺少自然语言错因解释。"
+      },
+      "dina_plus_cot_agent": {
+        "weak_concepts": [
+          "圆的性质",
+          "相似三角形",
+          "三角形面积"
+        ],
+        "error_count": 11,
+        "diagnosis_signal": "同时包含 CDM 掌握度、错因解释、认知断点和学习建议。"
+      }
+    },
+    {
+      "student_id": "S034",
+      "only_correct_rate": {
+        "accuracy": 0.6562,
+        "diagnosis_signal": "整体正确率，无法定位潜在知识点掌握概率。"
+      },
+      "dina_mastery": {
+        "weak_concepts": [
+          "代数运算",
+          "函数图像",
+          "分式运算",
+          "几何证明",
+          "相似三角形"
+        ],
+        "diagnosis_signal": "可定位低掌握知识点，但缺少自然语言错因解释。"
+      },
+      "dina_plus_cot_agent": {
+        "weak_concepts": [
+          "代数运算",
+          "分式运算",
+          "几何证明",
+          "函数图像",
+          "相似三角形"
+        ],
+        "error_count": 11,
+        "diagnosis_signal": "同时包含 CDM 掌握度、错因解释、认知断点和学习建议。"
+      }
+    },
+    {
+      "student_id": "S035",
+      "only_correct_rate": {
+        "accuracy": 0.8125,
+        "diagnosis_signal": "整体正确率，无法定位潜在知识点掌握概率。"
+      },
+      "dina_mastery": {
+        "weak_concepts": [
+          "统计图表",
+          "概率初步"
+        ],
+        "diagnosis_signal": "可定位低掌握知识点，但缺少自然语言错因解释。"
+      },
+      "dina_plus_cot_agent": {
+        "weak_concepts": [
+          "统计图表",
+          "概率初步"
+        ],
+        "error_count": 6,
+        "diagnosis_signal": "同时包含 CDM 掌握度、错因解释、认知断点和学习建议。"
+      }
+    },
+    {
+      "student_id": "S036",
+      "only_correct_rate": {
+        "accuracy": 0.7812,
+        "diagnosis_signal": "整体正确率，无法定位潜在知识点掌握概率。"
+      },
+      "dina_mastery": {
+        "weak_concepts": [
+          "一元一次方程",
+          "等式性质",
+          "函数图像",
+          "相似三角形"
+        ],
+        "diagnosis_signal": "可定位低掌握知识点，但缺少自然语言错因解释。"
+      },
+      "dina_plus_cot_agent": {
+        "weak_concepts": [
+          "相似三角形",
+          "函数图像",
+          "一元一次方程",
+          "等式性质"
+        ],
+        "error_count": 7,
+        "diagnosis_signal": "同时包含 CDM 掌握度、错因解释、认知断点和学习建议。"
+      }
+    },
+    {
+      "student_id": "S037",
+      "only_correct_rate": {
+        "accuracy": 0.7812,
+        "diagnosis_signal": "整体正确率，无法定位潜在知识点掌握概率。"
+      },
+      "dina_mastery": {
+        "weak_concepts": [
+          "一元一次方程",
+          "等式性质",
+          "函数图像"
+        ],
+        "diagnosis_signal": "可定位低掌握知识点，但缺少自然语言错因解释。"
+      },
+      "dina_plus_cot_agent": {
+        "weak_concepts": [
+          "函数图像",
+          "一元一次方程",
+          "等式性质"
+        ],
+        "error_count": 7,
+        "diagnosis_signal": "同时包含 CDM 掌握度、错因解释、认知断点和学习建议。"
+      }
+    },
+    {
+      "student_id": "S038",
+      "only_correct_rate": {
+        "accuracy": 0.4062,
+        "diagnosis_signal": "整体正确率，无法定位潜在知识点掌握概率。"
+      },
+      "dina_mastery": {
+        "weak_concepts": [
+          "一元一次方程",
+          "等式性质",
+          "代数运算",
+          "一元二次方程",
+          "函数图像",
+          "概率初步"
+        ],
+        "diagnosis_signal": "可定位低掌握知识点，但缺少自然语言错因解释。"
+      },
+      "dina_plus_cot_agent": {
+        "weak_concepts": [
+          "代数运算",
+          "一元二次方程",
+          "概率初步",
+          "一元一次方程",
+          "等式性质",
+          "函数图像"
+        ],
+        "error_count": 19,
+        "diagnosis_signal": "同时包含 CDM 掌握度、错因解释、认知断点和学习建议。"
+      }
+    },
+    {
+      "student_id": "S039",
+      "only_correct_rate": {
+        "accuracy": 0.5625,
+        "diagnosis_signal": "整体正确率，无法定位潜在知识点掌握概率。"
+      },
+      "dina_mastery": {
+        "weak_concepts": [
+          "一元二次方程",
+          "函数图像",
+          "分式运算",
+          "几何证明"
+        ],
+        "diagnosis_signal": "可定位低掌握知识点，但缺少自然语言错因解释。"
+      },
+      "dina_plus_cot_agent": {
+        "weak_concepts": [
+          "分式运算",
+          "几何证明",
+          "函数图像",
+          "一元二次方程"
+        ],
+        "error_count": 14,
+        "diagnosis_signal": "同时包含 CDM 掌握度、错因解释、认知断点和学习建议。"
+      }
+    },
+    {
+      "student_id": "S040",
+      "only_correct_rate": {
+        "accuracy": 0.6875,
+        "diagnosis_signal": "整体正确率，无法定位潜在知识点掌握概率。"
+      },
+      "dina_mastery": {
+        "weak_concepts": [
+          "一元一次方程",
+          "等式性质",
+          "统计图表",
+          "相似三角形"
+        ],
+        "diagnosis_signal": "可定位低掌握知识点，但缺少自然语言错因解释。"
+      },
+      "dina_plus_cot_agent": {
+        "weak_concepts": [
+          "相似三角形",
+          "统计图表",
+          "一元一次方程",
+          "等式性质"
+        ],
+        "error_count": 10,
+        "diagnosis_signal": "同时包含 CDM 掌握度、错因解释、认知断点和学习建议。"
+      }
+    }
+  ]
+}
